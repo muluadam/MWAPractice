@@ -1,0 +1,19 @@
+{
+  "name": "day2",
+  "version": "1.0.0",
+  "description": "day Two MWA Practice",
+  "main": "index.js",
+  "scripts": {
+    "start": "app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muluadam T Akalu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+    },
+    "devDependencies": {
+      "mocha": "^9.0.2"
+    }
+  
+}
